@@ -1,0 +1,16 @@
+Title: Backend Python Engineer
+Company: Acme Health
+Location: Austin, TX
+Remote: Hybrid
+Salary: $120,000 - $145,000
+Apply: https://example.com/jobs/123
+Source: Weekly Alert Email
+Description: Build APIs for healthcare products.
+
+Senior Data Analyst - Nova Labs
+Remote opportunity. Salary $95,000.
+https://example.com/jobs/456
+
+Company: Missing Title Co
+Location: New York, NY
+Description: This one should go to review because title is missing.
