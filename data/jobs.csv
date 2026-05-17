@@ -1,0 +1,11 @@
+id,title,company,location,description,salary,apply_url
+1,Senior Python Engineer,Northstar Health,Remote US,"Build Python services for patient scheduling and APIs",180000,https://jobs.northstarhealth.example/1
+2,Data Analyst,CityTransit Labs,Chicago IL,"Analyze ridership trends with SQL and dashboards",105000,https://jobs.citytransit.example/2
+3,Backend Developer,Acorn Commerce,Austin TX,"Develop backend APIs in Python and FastAPI",140000,https://jobs.acorncommerce.example/3
+4,Machine Learning Engineer,BrightAI,Remote US,"Train fraud models in Python and deploy to cloud",190000,https://jobs.brightai.example/4
+5,Junior QA Engineer,Summit Apps,Denver CO,"Write test cases and automate regression suites",85000,https://jobs.summitapps.example/5
+6,Senior Data Engineer,Lakehouse Systems,Remote US,"Build ETL pipelines with Python and Spark",200000,https://jobs.lakehouse.example/6
+7,Product Manager,Maple Finance,New York NY,"Lead roadmap for small business lending product",170000,https://jobs.maplefinance.example/7
+8,Software Engineer II,River Cloud,Seattle WA,"Build cloud platform features with Python and Go",160000,https://jobs.rivercloud.example/8
+9,Remote Support Engineer,Orbit Tools,Remote US,"Troubleshoot customer issues and automate scripts in Python",115000,https://jobs.orbittools.example/9
+10,Engineering Manager,Horizon Energy,Boston MA,"Lead team building internal data platforms",210000,https://jobs.horizonenergy.example/10
